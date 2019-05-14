@@ -1,0 +1,5 @@
+C:\Users\Nikolay\source\repos\TriangleDefinition\bin\Debug\TriangleDefinition.dll
+C:\Users\Nikolay\source\repos\TriangleDefinition\bin\Debug\TriangleDefinition.pdb
+C:\Users\Nikolay\source\repos\TriangleDefinition\obj\Debug\TriangleDefinition.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\TriangleDefinition\obj\Debug\TriangleDefinition.dll
+C:\Users\Nikolay\source\repos\TriangleDefinition\obj\Debug\TriangleDefinition.pdb
